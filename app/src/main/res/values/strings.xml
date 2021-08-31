@@ -14,4 +14,32 @@
     <string name="no_of_tests_assigned">NO. of Tests Assigned :</string>
     <string name="no_of_tests_solved">No. of tests solved :</string>
     <string name="remarks">Remarks :</string>
+
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="logIn">Log In</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="continue_with_twitter">Continue with Twitter</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="or">or</string>
+    <string name="enter_last_name">Enter Last name</string>
+    <string name="enter_first_name">Enter First name</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="create_account">Create account</string>
+    <string name="books">Books</string>
+    <string name="login_using_your_credentials">Login using your credentials</string>
+    <string name="enter_password">Enter password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="enter_email">Enter email</string>
+    <string name="todo">TODO</string>
+
+    <string name="get_started">Get started</string>
+    <string-array name="designations">
+        <item>Choose your role</item>
+        <item>Teacher</item>
+        <item>Student</item>
+    </string-array>
 </resources>

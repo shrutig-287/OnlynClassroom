@@ -70,16 +70,7 @@
         app:layout_constraintTop_toBottomOf="@id/cardViewSub"
         app:layout_constraintVertical_bias="0.107" />
 
-    <EditText
-        android:id="@+id/edit1"
-        android:layout_width="203dp"
-        android:layout_height="19dp"
-        android:layout_marginBottom="400dp"
-        android:hint=""
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.307"
-        app:layout_constraintLeft_toRightOf="@id/done"
-        app:layout_constraintRight_toRightOf="parent" />
+
 
     <TextView
         android:id="@+id/pending"
@@ -94,15 +85,6 @@
         app:layout_constraintVertical_bias="0.215" />
 
 
-    <EditText
-        android:id="@+id/edit2"
-        android:layout_width="145dp"
-        android:layout_height="23dp"
-        android:layout_marginBottom="328dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.264"
-        app:layout_constraintLeft_toRightOf="@id/pending"
-        app:layout_constraintRight_toRightOf="parent" />
 
     <TextView
         android:id="@+id/testsAssigned"
@@ -116,15 +98,6 @@
         app:layout_constraintTop_toBottomOf="@id/pending"
         app:layout_constraintVertical_bias="0.188" />
 
-    <EditText
-        android:id="@+id/edit3"
-        android:layout_width="150dp"
-        android:layout_height="19dp"
-        android:layout_marginBottom="248dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.027"
-        app:layout_constraintLeft_toRightOf="@id/testsAssigned"
-        app:layout_constraintRight_toRightOf="parent" />
 
     <TextView
         android:id="@+id/testsSolved"
@@ -138,15 +111,7 @@
         app:layout_constraintTop_toBottomOf="@id/testsAssigned"
         app:layout_constraintVertical_bias="0.301" />
 
-    <EditText
-        android:id="@+id/edit4"
-        android:layout_width="183dp"
-        android:layout_height="22dp"
-        android:layout_marginBottom="148dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.057"
-        app:layout_constraintLeft_toRightOf="@id/testsSolved"
-        app:layout_constraintRight_toRightOf="parent" />
+
 
     <TextView
         android:id="@+id/remarks"
@@ -160,14 +125,7 @@
         app:layout_constraintTop_toBottomOf="@id/testsSolved"
         app:layout_constraintVertical_bias="0.572" />
 
-    <EditText
-        android:layout_width="237dp"
-        android:layout_height="59dp"
-        android:layout_marginBottom="52dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.03"
-        app:layout_constraintLeft_toRightOf="@id/remarks"
-        app:layout_constraintRight_toRightOf="parent" />
+
 
     <ImageView
         android:id="@+id/courseImage"

@@ -39,5 +39,7 @@ private lateinit var binding: ActivityMainBinding
             Snackbar.make(view, "Add New Subject", Snackbar.LENGTH_LONG)
                     .setAction("Action", null).show()
         }
+
+
     }
 }
