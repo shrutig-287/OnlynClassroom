@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Classroom</string>
+    <string name="tab_text_1">Subjects</string>
+    <string name="tab_text_2">Notifications</string>
+    <string name="tab_text_3">Profile</string>
+    <string name="notifications">NOTIFICATIONS</string>
+    <string name="subjects">SUBJECTS</string>
+    <string name="this_is_subject_code_and_name">This is subject code and name</string>
+    <string name="this_is_teacher_name">This is teacher name</string>
+    <string name="name">NAME -</string>
+    <string name="pushp">Pushp</string>
+    <string name="assignments_done">Assignments Done :</string>
+    <string name="asssignments_pending">Asssignments Pending :</string>
+    <string name="no_of_tests_assigned">NO. of Tests Assigned :</string>
+    <string name="no_of_tests_solved">No. of tests solved :</string>
+    <string name="remarks">Remarks :</string>
+</resources>
